@@ -186,7 +186,7 @@ body {
     margin-top: 25%;
   }
 
-  body {
+  .la_page_daccueil {
     display: flex;
     flex-direction: column;
     background-image: url("https://raw.githubusercontent.com/HedyKatherine/Projet-gite/master/images/ban.jpeg");
